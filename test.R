@@ -1,6 +1,6 @@
 # test.R
 test <- 1:10
-test <- test * 2
+test <- test * 4
 test
 
 # 5 steps to convert master branch to main branch
